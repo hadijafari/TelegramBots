@@ -1,5 +1,3 @@
-python-telegram-bot==20.7
-
 
 token = '7793367712:AAGRXyOLyrF5v2FEzi5NawzKtFHDmJMlrtg'
 
